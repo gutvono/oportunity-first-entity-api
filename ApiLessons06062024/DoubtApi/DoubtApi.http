@@ -1,0 +1,6 @@
+@DoubtApi_HostAddress = http://localhost:5096
+
+GET {{DoubtApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
